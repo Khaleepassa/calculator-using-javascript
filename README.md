@@ -1,2 +1,3 @@
 # calculator-using-javascript
-a good looking calculator
+a good looking calculato!
+look onto it
